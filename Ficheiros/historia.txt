@@ -1,0 +1,7 @@
+A empresa Uminho Transportes, é uma empresa de entrega de encomendas que está localizada numa  pequena localidade na região de Braga. 
+
+Esta pequena empresa é gerida pelo Sr.Manuel, uma pessoa já de idade que é responsável por receber os pedidos das pessoas , este guarda os pedidos no seu caderno e calcula o valor do serviço. Esses pedidos são depois distribuídos pelos seus funcionários que realizam as entregas.
+
+Mas com o agravamento da doença Covid-19, as pessoas começaram a evitar sair de casa ao máximo e por isso a empresa Uminho Transportes estava a receber um grande número de pedidos, e o Sr.Manuel já não conseguia manter o ritmo , como resultado alguns dos pedidos estavam a ser mal anotados e por isso os pedidos não estavam a ser realizados com o sucesso que o Sr.Manuel queria.
+
+Então este deu a oprtunidade a 4 estudantes para lhe implementarem um sistema de base de dados para armazanar os dados dos pedidos e pagamentos.
